@@ -1,0 +1,72 @@
+.inline-block {
+    display: inline-block;
+}
+
+header {
+    height: 100px;
+    background-color: rgb(182, 174, 255);
+}
+
+body {
+    height: 500px;
+    background-color: rgb(21, 29, 99);
+}
+
+nav ul {
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.content {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+button {
+    display: inline-block;
+    background-color: rgb(182, 174, 255);
+    padding: 15px;
+    margin: 15px;
+    width: 180px;
+    text-align: center;
+    color: Black;
+    outline: 1px solid rgb(21, 29, 99);
+}
+
+footer {
+    background-color: rgb(182, 174, 255);
+}
+
+.content img {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+#signature {
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Send Flowers', cursive;
+}
